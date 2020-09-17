@@ -10,6 +10,6 @@ Semantic tags that have been added to the html:
 
 I have also added a descriptive Title to the head tag. 
 
-![Screenshot to the site](./Assets/Site_Screenshot.jpg)
+![Screenshot to the site](../Assets/Site_Screenshot.jpg)
 
 Link to site. https://jaredseefried.github.io/homework1-accessability/ 
