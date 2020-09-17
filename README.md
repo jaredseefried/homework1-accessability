@@ -3,9 +3,10 @@ The homework assignement is to make sure the site is accessable for people who m
 I have also wrapped semantic tags around their respective sections. 
 Semantic tags that have been added to the html:
     1. Nav
-    2. section
-    3. aside
-    4. footer
+    2. Header
+    3. Section
+    4. Aside
+    5. Footer
 
 I have also added a descriptive Title to the head tag. 
 
