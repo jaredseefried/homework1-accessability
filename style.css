@@ -37,7 +37,7 @@ p {
     color: #d9dcd6;
 }
 
-/* changed div to nav in the follow 3 styles with .header */
+/* changed div to nav in the following 3 styles with .header */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -62,7 +62,7 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("assets/images/digital-marketing-meeting.jpg");
+    background-image: url("./assets/images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
